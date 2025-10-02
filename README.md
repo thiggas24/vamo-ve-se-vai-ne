@@ -1,1 +1,1 @@
-<a href="https://thiggas24.github.io/vamo-ve-se-vai-ne/LORAX.HTML" Executar o meu projeto> </a>
+<a href="https://thiggas24.github.io/vamo-ve-se-vai-ne/LORAX.HTML"> </a>
